@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header, main, footer {
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section h2 {
+    color: #333;
+  }
+  
+  section p {
+    color: #666;
+  }
+  
+  footer {
+    background-color: #f5f5f5;
+    color: #333;
+    text-align: center;
+  }
+
+  .miBoton {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+
+.miBoton:hover {
+    background-color: #45a049;
+}
